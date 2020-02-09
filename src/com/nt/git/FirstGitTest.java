@@ -9,7 +9,7 @@ public class FirstGitTest {
 		String b="bbc";
 		String c="ccc";
 		System.out.println(c);
-		System.out.println();
+		System.out.println(b);
 		
 		
 		
